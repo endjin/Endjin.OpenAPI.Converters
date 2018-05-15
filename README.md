@@ -14,7 +14,7 @@ See the blog post [OpenAPI code generators for Visual Studio](https://blogs.endj
 - [Darrel Miller](https://twitter.com/darrel_miller) for his work on the [OpenAPI.NET SDK](https://github.com/Microsoft/OpenAPI.NET)
 - The [TechTalk](http://www.techtalk.at) team as their [SpecFlow.VisualStudio](https://github.com/techtalk/SpecFlow.VisualStudio) project really helped me understand some of the nuances of Visual Studio extensibility.
 
-## Info
+## Useful Resources
 
-Have you heard of the [In the Mood for HTTP](https://www.youtube.com/channel/UC5-31Y_XqTe30i-xx1SIUJA) YouTube show by [Darrel Miller](https://twitter.com/darrel_miller) & [Glenn Block]()
-There is also a HTTP APIs Slack channel at http://slack.httpapis.com
+- Have you heard of the [In the Mood for HTTP](https://www.youtube.com/channel/UC5-31Y_XqTe30i-xx1SIUJA) YouTube show by [Darrel Miller](https://twitter.com/darrel_miller) & [Glenn Block]()
+- There is also a HTTP APIs Slack channel at http://slack.httpapis.com with discussions on most HTTP related topics such as OpenAPI / Rest / GraphQL etc
