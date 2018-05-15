@@ -11,8 +11,8 @@ The primary usage scenario for this tool is the authoring of OpenAPI files in lo
 See the blog post [OpenAPI code generators for Visual Studio](https://blogs.endjin.com/2018/04/openapi-code-generators-for-visual-studio/) by [Howard van Rooijen](https://twitter.com/howardvrooijen) for information about the origins of this project.
 
 ## Special Thanks
-- [Darrel Miller](https://twitter.com/darrel_miller) for his work on the OpenAPI.NET SDK
-- The [TechTalk](http://www.techtalk.at) team as their [SpecFlow.VisualStudio](https://github.com/techtalk/SpecFlow.VisualStudio)
+- [Darrel Miller](https://twitter.com/darrel_miller) for his work on the [OpenAPI.NET SDK](https://github.com/Microsoft/OpenAPI.NET)
+- The [TechTalk](http://www.techtalk.at) team as their [SpecFlow.VisualStudio](https://github.com/techtalk/SpecFlow.VisualStudio) project really helped me understand some of the nuances of Visual Studio extensibility.
 
 ## Info
 
