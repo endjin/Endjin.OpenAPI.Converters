@@ -16,5 +16,5 @@ See the blog post [OpenAPI code generators for Visual Studio](https://blogs.endj
 
 ## Useful Resources
 
-- Have you heard of the [In the Mood for HTTP](https://www.youtube.com/channel/UC5-31Y_XqTe30i-xx1SIUJA) YouTube show by [Darrel Miller](https://twitter.com/darrel_miller) & [Glenn Block]()
+- Have you heard of the [In the Mood for HTTP](https://www.youtube.com/channel/UC5-31Y_XqTe30i-xx1SIUJA) YouTube show by [Darrel Miller](https://twitter.com/darrel_miller) & [Glenn Block](https://twitter.com/gblock)?
 - There is also a HTTP APIs Slack channel at http://slack.httpapis.com with discussions on most HTTP related topics such as OpenAPI / Rest / GraphQL etc
