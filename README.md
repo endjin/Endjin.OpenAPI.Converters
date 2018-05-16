@@ -8,6 +8,16 @@ A Visual Studio 2017 Custom Tool that converts between OpenAPI formats:
 
 The primary usage scenario for this tool is the authoring of OpenAPI files in local Azure Function projects.
 
+To add a OpenAPI document to your Function project add the following folder structure
+
+```.azurefunctions\swagger\```
+
+Add a new file called swagger.yaml. On the property pane for this file, set the Custom Tool to equal "ConvertToOpenApi_2_0_Json". This will generate a swagger.json file.
+
+(https://raw.githubusercontent.com/endjin/Endjin.OpenAPI.Converters/master/Assets/yaml-file-property-pane.png)
+
+Finally, select the swagger.json file and in the property pane, set the Build Action to "Content" and the Copy to Output Directory to "Copy if newer".
+
 See the blog post [OpenAPI code generators for Visual Studio](https://blogs.endjin.com/2018/04/openapi-code-generators-for-visual-studio/) by [Howard van Rooijen](https://twitter.com/howardvrooijen) for information about the origins of this project.
 
 ## Special Thanks
