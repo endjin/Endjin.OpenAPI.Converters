@@ -14,7 +14,7 @@ To add a OpenAPI document to your Function project add the following folder stru
 
 Add a new file called swagger.yaml. On the property pane for this file, set the Custom Tool to equal "ConvertToOpenApi_2_0_Json". This will generate a swagger.json file.
 
-(https://raw.githubusercontent.com/endjin/Endjin.OpenAPI.Converters/master/Assets/yaml-file-property-pane.png)
+![YAML file property pane in Visual Studio](https://raw.githubusercontent.com/endjin/Endjin.OpenAPI.Converters/master/Assets/yaml-file-property-pane.png)
 
 Finally, select the swagger.json file and in the property pane, set the Build Action to "Content" and the Copy to Output Directory to "Copy if newer".
 
